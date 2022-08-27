@@ -1,0 +1,3 @@
+[submodule "laravel-recipes"]
+	path = laravel-recipes
+	url = https://github.com/cristianorregodev/laravel-recipes.git
